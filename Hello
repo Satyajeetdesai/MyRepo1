@@ -2,4 +2,5 @@ int main(){
 printf("Hello world ");
 }
 // modified 
-printf("modified")
+printf("modified");
+}
